@@ -1,3 +1,4 @@
+//Accept the marks of 5 subjects and find the sum and percentage marks obtained by the student.
 #include<stdio.h>
 #include<conio.h>
 void main()
